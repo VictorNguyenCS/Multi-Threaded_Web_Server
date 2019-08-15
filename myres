@@ -1,0 +1,165 @@
+/home/swens941/4061/proj32/group7-project3-csci4061/testing/image/jpg/22.jpg: Invalid URL ftp://#€T¯ãZ-ºû%¾Æ¿“¦4cWÃškàÆîz›å½²ı›·^©ñ¯kcV®±¤ºÂc@‹0­‡O6¸ãëi§…]õÀäq]ùÅ^äwcK¦«RÌ÷ÓSå,xíİ´ÆìÛ²®üÖß(…Wb*¤Û,—–Ò¹mß>#êqDû÷ª¯^èËOƒĞO\Ç’4lc©¤­o/\k÷İ°`RäO¥W-f®É5i’ÜCJKpĞÃî)µº©£æ: Invalid host name
+/home/swens941/4061/proj32/group7-project3-csci4061/testing/image/jpg/22.jpg: Invalid URL ftp://2*hˆĞ%´	àk¥ãJMèÛ_YÌ®±‘ŸÙ~$Ë·6ş±n(Ü¦óòucŞ5g)’]§]D}ÔÒ•…©'Ón,’8>õÏgN®zàè§«eÙ¿¨´ıµâø»z«ßxV¢ı/ÛÉr‘I5Z““$3ô6ëiSÎ§: Invalid host name
+/home/swens941/4061/proj32/group7-project3-csci4061/testing/image/jpg/22.jpg: Invalid URL ftp://BŠyJ¾B?†˜%îÛşR·ïw³NãrÄ[²ğvšlDQéf6™¸-Ä°ÑR”¥8 ’¥¨óÂ@©gœòE'á‹¯(×¦&<[~İ—9×–x	ñ´¥û ù/_oé´ÂµëÕ¢¡›¦Eq˜–5µ>·;‡>%Ô^RZm^‡8JOÏ­A-öëÕN«½g+sÛ%Ño'Ûõ–MR¡Sp¶íÑ2+ŠS±’T¡ãŒ•¥ +V¡üÏEqãlÑmšúR"U£—ìkÊ‰´šìHNK: Invalid host name
+/home/swens941/4061/proj32/group7-project3-csci4061/testing/image/jpg/22.jpg: Invalid URL http://<%\Ç û×r¶+İSó£$›ÖÊRŠSyÒ	Ø6yÿ: Invalid host name
+idn_encode failed (-200): â€˜string encoding errorâ€™
+--2018-12-12 16:40:01--  http://%FF%D8%FF%E0/
+Resolving \377\330\377\340 (\377\330\377\340)... failed: Temporary failure in name resolution.
+wget: unable to resolve host address â€˜\377\330\377\340â€™
+--2018-12-12 16:40:01--  ftp://%3Cx/xmpmeta%20xmlns:x=%22adobe:ns:meta/%22%20x:xmptk=%22Adobe%20XMP%20Core%204.1-c034%2046.272976,%20Sat%20Jan%2027%202007%2022:37:37%20%20%20%20%20%20%20%20%22%3E
+           => â€˜" x:xmptk="Adobe XMP Core 4.1-c034 46.272976, Sat Jan 27 2007 22:37:37        ">â€™
+Resolving <x (<x)... failed: Temporary failure in name resolution.
+wget: unable to resolve host address â€˜<xâ€™
+--2018-12-12 16:40:01--  ftp://%3Crdf/RDF%20xmlns:rdf=%22http://www.w3.org/1999/02/22-rdf-syntax-ns
+           => â€˜22-rdf-syntax-nsâ€™
+Resolving <rdf (<rdf)... failed: Temporary failure in name resolution.
+wget: unable to resolve host address â€˜<rdfâ€™
+--2018-12-12 16:40:01--  ftp://%3Crdf/Description%20rdf:about=%22%22
+           => â€˜Description rdf:about=""â€™
+Resolving <rdf (<rdf)... failed: Temporary failure in name resolution.
+wget: unable to resolve host address â€˜<rdfâ€™
+--2018-12-12 16:40:01--  ftp://xmlns/xap=%22http://ns.adobe.com/xap/1.0/%22%3E
+           => â€˜">â€™
+Resolving xmlns (xmlns)... failed: Temporary failure in name resolution.
+wget: unable to resolve host address â€˜xmlnsâ€™
+--2018-12-12 16:40:01--  ftp://%3Cxap/CreatorTool%3EAdobe%20Fireworks%20CS3%3C/xap:CreatorTool%3E
+           => â€˜xap:CreatorTool>â€™
+Resolving <xap (<xap)... failed: Temporary failure in name resolution.
+wget: unable to resolve host address â€˜<xapâ€™
+--2018-12-12 16:40:01--  ftp://%3Cxap/CreateDate%3E2008-11-05T18:15:22Z%3C/xap:CreateDate%3E
+           => â€˜xap:CreateDate>â€™
+Resolving <xap (<xap)... failed: Temporary failure in name resolution.
+wget: unable to resolve host address â€˜<xapâ€™
+--2018-12-12 16:40:01--  ftp://%3Cxap/ModifyDate%3E2008-11-05T18:17:51Z%3C/xap:ModifyDate%3E
+           => â€˜xap:ModifyDate>â€™
+Resolving <xap (<xap)... failed: Temporary failure in name resolution.
+wget: unable to resolve host address â€˜<xapâ€™
+--2018-12-12 16:40:01--  http://%3C/rdf:Description%3E
+Resolving < (<)... failed: Temporary failure in name resolution.
+wget: unable to resolve host address â€˜<â€™
+--2018-12-12 16:40:01--  ftp://%3Crdf/Description%20rdf:about=%22%22
+           => â€˜Description rdf:about=""â€™
+Resolving <rdf (<rdf)... failed: Temporary failure in name resolution.
+wget: unable to resolve host address â€˜<rdfâ€™
+--2018-12-12 16:40:01--  ftp://xmlns/dc=%22http://purl.org/dc/elements/1.1/%22%3E
+           => â€˜">â€™
+Resolving xmlns (xmlns)... failed: Temporary failure in name resolution.
+wget: unable to resolve host address â€˜xmlnsâ€™
+--2018-12-12 16:40:01--  ftp://%3Cdc/format%3Eimage/jpeg%3C/dc:format%3E
+           => â€˜dc:format>â€™
+Resolving <dc (<dc)... failed: Temporary failure in name resolution.
+wget: unable to resolve host address â€˜<dcâ€™
+--2018-12-12 16:40:01--  http://%3C/rdf:Description%3E
+Resolving < (<)... failed: Temporary failure in name resolution.
+wget: unable to resolve host address â€˜<â€™
+--2018-12-12 16:40:01--  http://%3C/rdf:RDF%3E
+Resolving < (<)... failed: Temporary failure in name resolution.
+wget: unable to resolve host address â€˜<â€™
+--2018-12-12 16:40:01--  http://%3C/x:xmpmeta%3E
+Resolving < (<)... failed: Temporary failure in name resolution.
+wget: unable to resolve host address â€˜<â€™
+Incomplete or invalid multibyte sequence encountered
+--2018-12-12 16:40:01--  http://%3C/?xpacket%20end=%22w%22?%3E%FF%DB
+Resolving < (<)... failed: Temporary failure in name resolution.
+wget: unable to resolve host address â€˜<â€™
+--2018-12-12 16:40:01--  http://%06%08/
+Resolving \006\b (\006\b)... failed: Temporary failure in name resolution.
+wget: unable to resolve host address â€˜\006\bâ€™
+idn_encode failed (-200): â€˜string encoding errorâ€™
+--2018-12-12 16:40:01--  http://%FF%DB/
+Resolving \377\333 (\377\333)... failed: Temporary failure in name resolution.
+wget: unable to resolve host address â€˜\377\333â€™
+--2018-12-12 16:40:01--  http://%07%06%07/
+Resolving \a\006\a (\a\006\a)... failed: Temporary failure in name resolution.
+wget: unable to resolve host address â€˜\a\006\aâ€™
+idn_encode failed (-200): â€˜string encoding errorâ€™
+--2018-12-12 16:40:01--  http://%FF%C0/
+Resolving \377\300 (\377\300)... failed: Temporary failure in name resolution.
+wget: unable to resolve host address â€˜\377\300â€™
+--2018-12-12 16:40:01--  http://%01%02%04%03%FF%C4/
+Resolving \001\002\004\003\377\304 (\001\002\004\003\377\304)... failed: Temporary failure in name resolution.
+wget: unable to resolve host address â€˜\001\002\004\003\377\304â€™
+--2018-12-12 16:40:01--  http://2r%16b%81%91c%B2%D2%FF%C4/
+Resolving 2r\026b\201\221c\262\322\377\304 (2r\026b\201\221c\262\322\377\304)... failed: Temporary failure in name resolution.
+wget: unable to resolve host address â€˜2r\026b\201\221c\262\322\377\304â€™
+idn_encode failed (-200): â€˜string encoding errorâ€™
+--2018-12-12 16:40:01--  http://I%1C%83%A08S%A8@%E5j/
+Resolving \345j (\345j)... failed: Temporary failure in name resolution.
+wget: unable to resolve host address â€˜\345jâ€™
+--2018-12-12 16:40:01--  http://%ED%BEu%16%EA%C7h%E4%FB%B7%04l%7Fop%AE%98%15/
+Resolving \355\276u\026\352\307h\344\373\267\004l\177op\256\230\025 (\355\276u\026\352\307h\344\373\267\004l\177op\256\230\025)... failed: Temporary failure in name resolution.
+wget: unable to resolve host address â€˜\355\276u\026\352\307h\344\373\267\004l\177op\256\230\025â€™
+idn_encode failed (-200): â€˜string encoding errorâ€™
+Incomplete or invalid multibyte sequence encountered
+--2018-12-12 16:40:01--  ftp://%92n/%ACF%EDy%B2dP%17-%08I%60)%F52%D8J%94%DA%DC
+           => â€˜\254F\355y\262dP%17-%08I`)\3652\330J\224\332\334â€™
+Resolving \222n (\222n)... failed: Temporary failure in name resolution.
+wget: unable to resolve host address â€˜\222nâ€™
+idn_encode failed (-200): â€˜string encoding errorâ€™
+idn_encode failed (-200): â€˜string encoding errorâ€™
+Incomplete or invalid multibyte sequence encountered
+--2018-12-12 16:40:01--  ftp://%FAg%3E%F8/%B0%C5%9D%D0%9E%E7%22%97%3E%9A%E5N%A1%14%8B%D6%D9%B6%7F%C9%9B%9C%C4t%5C%E3r%D84%7B~%8Dq%D3%13.%9BMb%A6%F3%D3%E2%92%A2%3CR%12%A6%92%84%AD%3Cp%AE%D5%11%CF?
+           => â€˜.listingâ€™
+Resolving \372g>\370 (\372g>\370)... failed: Temporary failure in name resolution.
+wget: unable to resolve host address â€˜\372g>\370â€™
+idn_encode failed (-200): â€˜string encoding errorâ€™
+--2018-12-12 16:40:01--  http://%1Ebcahq'%E4)'%D1%1F%83%A0!%E7p%5C%1Bj%DA%D7%7D3;%DB9~%91%8F%DC%83o=%1A%B7%1E%5D%AC%FC%98r%60%B2%A2%EF%98%98%89/
+Resolving \036bcahq'\344)'\321\037\203\240!\347p\\\033j\332\327}3;\3339~\221\217Üƒo=\032\267\036]\254\374\230r`\262\242ï˜˜\211 (\036bcahq'\344)'\321\037\203\240!\347p\\\033j\332\327}3;\3339~\221\217Üƒo=\032\267\036]\254\374\230r`\262\242ï˜˜\211)... failed: Temporary failure in name resolution.
+wget: unable to resolve host address â€˜\036bcahq'\344)'\321\037\203\240!\347p\\\033j\332\327}3;\3339~\221\217Üƒo=\032\267\036]\254\374\230r`\262\242ï˜˜\211â€™
+--2018-12-12 16:40:01--  ftp://mm%F7+%FB%8Fi%1C%7F%1A%D9%0B%1C%11%19w%EAy+%A7/;u‡ÛNÄ¬¯-lŸv°ó^t¿)ğéì-ªÚ¡ÛÔøëR¼Šdö÷¨w«å¯€´ß“ı\ª–¢Ô|"â»º¹»„¤íûtû¸–Ü‰-I¨[-ÜTÒí%ÉKã°”Şï©Dú¿/®É±Â-o’ï6Í-?qûè-„ç[C¯Önª{ôçñMT
+           => â€˜.listingâ€™
+Resolving mm\367+\373\217i\034\177\032\331\v\034\021\031w\352y+\247 (mm\367+\373\217i\034\177\032\331\v\034\021\031w\352y+\247)... failed: Temporary failure in name resolution.
+wget: unable to resolve host address â€˜mm\367+\373\217i\034\177\032\331\v\034\021\031w\352y+\247â€™
+idn_encode failed (-200): â€˜string encoding errorâ€™
+--2018-12-12 16:40:01--  http://%84H%EF-%11$%CA2%BCE%7D%9C%F6%8F%DBGp%04z%EE%D7%06D%A5%E9&%BD%CB%BC%25%09%DF-x%89&%60%EC2%CB%DD~%DF%9Af%F3%AFB%A1&%A5%5E%AA%D4%DF%A8@%B4%E2%BBr/
+Resolving \264\342\273r (\264\342\273r)... failed: Temporary failure in name resolution.
+wget: unable to resolve host address â€˜\264\342\273râ€™
+idn_encode failed (-200): â€˜string encoding errorâ€™
+Incomplete or invalid multibyte sequence encountered
+--2018-12-12 16:40:01--  http://%5C%E7%96%5Cl%C5%F0%E2b%93%D9%CAg%D8k%87%F3%D6w/?%1B%D1g%FD%22%9C%8Cn%F9=7%F0%BF%F4u%B6%CF%BB%ABOkv%04%1C)%B6%AD%D6[%17%EA-4%AF%BF%1DB%B4%DFT%E9%A0%A8%F2%DA%16%D8R%DAqJ%E7%B5K%FA9%E7W8%F9%D7%DB%FBx%3C%C6oL%C0%A5%BDY%C9fV%BDj%7D%C1lS%EB%D5J%1B%D4%B93%202%FC%9Al%95%02%E4E%AD%09R%9AY%1E%8A%92II
+Resolving \\\347\226\\l\305\360\342b\223\331\312g\330k\207\363\326w (\\\347\226\\l\305\360\342b\223\331\312g\330k\207\363\326w)... failed: Temporary failure in name resolution.
+wget: unable to resolve host address â€˜\\\347\226\\l\305\360\342b\223\331\312g\330k\207\363\326wâ€™
+idn_encode failed (-200): â€˜string encoding errorâ€™
+Incomplete or invalid multibyte sequence encountered
+--2018-12-12 16:40:01--  http://%C3%18%A6%96%D5%0B%1B%E2%AA%05%163i%E1%B4s%A9m%20%F1%C7%1E%D4%07*/?’yÖ;cö‘ß"a,7–(/Û9C[·>Se·âV(ì¾…¤ü§…¤ë:H	Õ§¤EáÓ~Îªu é’nk*Ôy5ËQê*™"7wî>Ë
+Resolving \303\030\246\226\325\v\033\342\252\005\0263i\341\264s\251m \361\307\036\324\a* (\303\030\246\226\325\v\033\342\252\005\0263i\341\264s\251m \361\307\036\324\a*)... failed: Temporary failure in name resolution.
+wget: unable to resolve host address â€˜\303\030\246\226\325\v\033\342\252\005\0263i\341\264s\251m \361\307\036\324\a*â€™
+Incomplete or invalid multibyte sequence encountered
+--2018-12-12 16:40:01--  http://QH%09%E7%EBd%82%95$%9E8%E3@l%BE%88%BD%5C%A8%1Dt6%FD%22%A1r%D2%19%A2%E4%AB/?Ãø¢0¯ÚqKOíÌcÿ
+Resolving l\276\210\275\\\250\035t6\375"\241r\322\031\242\344\253 (l\276\210\275\\\250\035t6\375"\241r\322\031\242\344\253)... failed: Temporary failure in name resolution.
+wget: unable to resolve host address â€˜l\276\210\275\\\250\035t6\375"\241r\322\031\242\344\253â€™
+Incomplete or invalid multibyte sequence encountered
+The name is too long, 237 chars total.
+Trying to shorten...
+New name is index.html?fùZ%1E;R“%09»¶ùf%033'%07%1FiR%16Û%01Ğ¦Ñãe$pRIYùàj;f%09É†ê%19Çnùö‰¶\­˜çäz-ÍmË¨Pîzä%16YªF“%15M‡™|ÇB%1Aqµ‡%02BRSÁIçÑÔÀødË*%06GÇ•û%02©%19§ãVè² <Óí…%Iu¥ ‚%0F¢=è%0Dp¿¦Û%dÜcÖI¼,ÇébRª%14[‚‹Se¨È`Mj%1B§Â¥qıêBHü%13¨x%06Å;ƒÉ˜ç%0CáÛ.e.
+--2018-12-12 16:40:01--  http://%98m%A6%D7s%5C%97;%B1%BCsf%C1%DB9%C68%AE%85%17%C4%CD%1E%C8%A76a%F9s%AA%8E%95%B8%A2%7F%92%E2%94i%FEn%AC%92%D2%D1d%DE%DBesu4%EA%8D%BB%FB%C3%AB%85%8B%D2/?fùZ;R“	»¶ùf3'iRÛĞ¦Ñãe$pRIYùàj;f	É†êÇnùö‰¶\­˜çäz-ÍmË¨PîzäYªF“M‡™|ÇBqµ‡BRSÁIçÑÔÀødË*GÇ•û©§ãVè² <Óí…%Iu¥ ‚¢=èp¿¦Û%dÜcÖI¼,ÇébRª[‚‹Se¨È`Mj§Â¥qıêBHü¨xÅ;ƒÉ˜çáÛ.e·
+Resolving \230m\246\327s\\\227;\261\274sf\301\3339\3068\256\205\027\304\315\036È§6a\371s\252\216\225\270\242\177\222\342\224i\376n\254\222\322\321d\336\333esu4ê»\373Ã«\205\213\322 (\230m\246\327s\\\227;\261\274sf\301\3339\3068\256\205\027\304\315\036È§6a\371s\252\216\225\270\242\177\222\342\224i\376n\254\222\322\321d\336\333esu4ê»\373Ã«\205\213\322)... failed: Temporary failure in name resolution.
+wget: unable to resolve host address â€˜\230m\246\327s\\\227;\261\274sf\301\3339\3068\256\205\027\304\315\036È§6a\371s\252\216\225\270\242\177\222\342\224i\376n\254\222\322\321d\336\333esu4ê»\373Ã«\205\213\322â€™
+Incomplete or invalid multibyte sequence encountered
+--2018-12-12 16:40:01--  ftp://%13%09%86%19%8F!%C2%B4%B4%E0a%E1%1C%A0%8E%E4'%D6%B7%C3%02%AB9%B5o%5E%0E%7F%EA6p%DA%AB%7C%F1%E7c%88%F5%A5%BA/[lÑ±îş²e
+           => â€˜.listingâ€™
+Resolving \023\t\206\031\217!Â´\264\340a\341\034\240\216\344'Ö·\303\002\2539\265o^\016\177\3526pÚ«|\361\347c\210\365\245\272 (\023\t\206\031\217!Â´\264\340a\341\034\240\216\344'Ö·\303\002\2539\265o^\016\177\3526pÚ«|\361\347c\210\365\245\272)... failed: Temporary failure in name resolution.
+wget: unable to resolve host address â€˜\023\t\206\031\217!Â´\264\340a\341\034\240\216\344'Ö·\303\002\2539\265o^\016\177\3526pÚ«|\361\347c\210\365\245\272â€™
+--2018-12-12 16:40:01--  http://%87%15%80%CC/
+Resolving \207\025\200\314 (\207\025\200\314)... failed: Temporary failure in name resolution.
+wget: unable to resolve host address â€˜\207\025\200\314â€™
+idn_encode failed (-200): â€˜string encoding errorâ€™
+--2018-12-12 16:40:01--  ftp://'%93%F1%F1%AF!%D5/;j%C8%D2%3E%93%F8m%CB
+           => â€˜.listingâ€™
+Resolving '\223\361\361\257!\325 ('\223\361\361\257!\325)... failed: Temporary failure in name resolution.
+wget: unable to resolve host address â€˜'\223\361\361\257!\325â€™
+idn_encode failed (-200): â€˜string encoding errorâ€™
+idn_encode failed (-200): â€˜string encoding errorâ€™
+--2018-12-12 16:40:01--  http://%EE%89.jp%5Bq'%B5h/
+Resolving \356\211.jp[q'\265h (\356\211.jp[q'\265h)... failed: Name or service not known.
+wget: unable to resolve host address â€˜\356\211.jp[q'\265hâ€™
+Warning: wildcards not supported in HTTP.
+Incomplete or invalid multibyte sequence encountered
+--2018-12-12 16:40:01--  http://$%FE%A0%5E%BBx%A7q%14%EA%96%C5v%A5y%D4%AA%96%8B/6»æòµÏr*‹m]ß ÷Àd) ¸ç°xàzëFRÙšèC¼M¹l¯Û‘,‹ßÜI»ã"÷·¡Õä¿v¸ì—Ó0ÂR
+Resolving $\376\240^\273x\247q\024\352\226\305v\245yÔª\226\213 ($\376\240^\273x\247q\024\352\226\305v\245yÔª\226\213)... failed: Temporary failure in name resolution.
+wget: unable to resolve host address â€˜$\376\240^\273x\247q\024\352\226\305v\245yÔª\226\213â€™
+Incomplete or invalid multibyte sequence encountered
+--2018-12-12 16:40:01--  ftp://'%8F%8Drk%03%1Arr%94v%D9egw%EAx%D0q%AE%C6%92/Õz(m²ä»"^WnZÊ5Itæb©7££ÄÓ¨ìqµ€]J‡Ùe\|zŠéØkö
+           => â€˜.listingâ€™
+Resolving '\217\215rk\003\032rr\224v\331egw\352x\320q\256Æ’ ('\217\215rk\003\032rr\224v\331egw\352x\320q\256Æ’)... failed: Temporary failure in name resolution.
+wget: unable to resolve host address â€˜'\217\215rk\003\032rr\224v\331egw\352x\320q\256Æ’â€™
